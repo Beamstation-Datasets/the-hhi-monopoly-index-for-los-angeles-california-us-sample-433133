@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4ff8036f-bd75-43d1-9e9e-80e205e41996",
+  "export_job_id": "7dcea265-535c-462a-8976-8d5227e80c2f",
   "id_short": 433133,
-  "published_at": "2026-04-12T19:08:05Z",
+  "published_at": "2026-04-18T19:07:25Z",
   "repo_name": "the-hhi-monopoly-index-for-los-angeles-california-us-sample-433133",
   "sample_asset_name": "beamstation_433133_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/433133/beamstation_433133_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "f06ca5b628676f527104b85a06062a1b5d058d4d136829ee760a6ffe5ff6be6f",
-  "sample_size_bytes": 39794,
-  "total_records": 60
+  "sample_records": 4,
+  "sample_sha256": "72c9ec08e5ff57533b880ed226170563f196cdc5a9aa5b90f46254ad1cc81dbf",
+  "sample_size_bytes": 32533,
+  "total_records": 47
 }
