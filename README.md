@@ -9,9 +9,9 @@
 | Dataset ID | `433133` |
 | Location | Los Angeles |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-14T22:03:58.255468+00:00 |
+| Full dataset size | 41 records |
+| Free sample size | 4 records (9.76%) |
+| Last export | 2026-04-22T14:46:55.340198+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-los-angeles-california-us-sample-433133/releases/download/sample-latest/beamstation_433133_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
