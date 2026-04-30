@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Los Angeles, California, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `433133` |
 | Location | Los Angeles |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-22T14:46:55.340198+00:00 |
+| Full dataset size | 32 records |
+| Free sample size | 3 records (9.38%) |
+| Last export | 2026-04-29T03:49:34.428877+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-los-angeles-california-us-sample-433133/releases/download/sample-latest/beamstation_433133_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
